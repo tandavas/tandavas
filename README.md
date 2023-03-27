@@ -1,4 +1,4 @@
-### Design and build websites [@famolus](https://github.com/Famolus/).
+### Building [@HyperLoot](https://github.com/hyperloot-nft).
 
 <!--
 **tandavas/tandavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
